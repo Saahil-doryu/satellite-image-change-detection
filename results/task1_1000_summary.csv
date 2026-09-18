@@ -1,0 +1,2 @@
+model,dataset,split,evaluation,total_samples,correct,incorrect,overall_accuracy,yes_no_total,yes_no_correct,yes_no_accuracy,multiple_choice_total,multiple_choice_correct,multiple_choice_accuracy
+Qwen2.5-VL-3B-Instruct,google/RSRCC,test,zero-shot,1000,818,182,81.8,520,477,91.73,480,341,71.04
